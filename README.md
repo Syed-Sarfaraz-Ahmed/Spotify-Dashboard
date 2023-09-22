@@ -6,11 +6,12 @@
 # Spotify-Dashboard
 About Exploratory Data Analysis on "Top Songs of Spotify" between 2010-2022. This report explores on different data relations which can be formed from the given dataset.
 
-Click Here for [PDF-File]() 
+Click Here for [PDF-File](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz-PDF.pdf) 
 
-Click Here for [BI-Report]()
+Click Here for [BI-Report](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Dashboard/blob/main/Spotify-Viz.pbix)
 
-Click Here for [Video Presentation of Dashboard]()
+Click Here for [Previous EDA on Dataset](https://github.com/Syed-Sarfaraz-Ahmed/Spotify-Data-Analysis)
+
 
 ## Introduction
 
